@@ -1,0 +1,135 @@
+{
+  "reportId": "taishin-shin-kong-2025",
+  "excerpts": [
+    {
+      "id": "taishin-shin-kong-2025-verified-0",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 60,
+      "printed_page": "60",
+      "content": "自然相關敏感產業投融資組合依賴影響分析\n台新新光金控依循\nLEAP\n方法學中之\nEvaluate\n評估流程，針對各產業對自然資本之依賴性與影響性進行系統性分析，以辨識具有高度自然相關風險與機會之關\n鍵產業。本分析以產業與自然資本服務之交互關係為基礎，參考\nENCORE( 註 4)\n資料庫裡之產業與自然資本依存關聯，並結合\nTNFD\n準則建議之\n16\n項自然相關\n風險與機會類別進行評估。產業類別依據\nGICS\n（全球行業分類標準）架構進行分類，確保分析結果具備國際一致性。在評估方法上，本研究針不同自然資本要\n素\n(\n如水資源、生物多樣性、氣候調節等\n)\n之依賴程度及潛在影像進行量化分級，區分為「極高、高、中、低、極低」五個等級，並以矩陣方式呈現，同時彙整\n本集團於該等產業之投融資金額占比。",
+      "verified": true,
+      "review_note": "對照原始 PDF 頁面核對完整段落；此段不足以代表整本報告已覆核。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-1",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 72,
+      "printed_page": "72",
+      "content": "溫室氣體排放數據\n台新新光金控自\n2016\n年起依循\nISO 14064-1:2006\n（其後發布\nISO 14064-1:2018\n）編製自願性盤查報告。考量到我國企業符合\nIFRS S2\n第\nC4(a)\n段之過渡規定\n（得使用「溫室氣體盤查議定書企業準則」以外之衡量方法），暨為維持一貫之作業程序及維護報導前後期間之一致性，今年度依\nISO 14064-1:2018\n進行溫室氣\n體盤查作業，並預計自\n2027\n年起依「溫室氣體盤查議定書：企業會計與報導準則（\nGreenhouse Gas Protocol: A Corporate Accounting and Reporting\nStandard\n）（\n2004\n年版）」完成盤查作業。\n台新新光金控依循\nSBT\n路徑進行減碳管理，透過歷年節能減碳行動方案及成果，\n2025\n年範疇一及範疇二市場基礎總排放量為\n40,961 tCO2e\n，較\n2024\n年總排\n放量減\n8.2%\n。",
+      "verified": true,
+      "review_note": "2025合併會計集團市場基礎範疇一、二排放量與前年比減量；不能當成相對SBT基準年的減量。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-2",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 72,
+      "printed_page": "72",
+      "content": "2\n.\n溫室氣體排放逐年減量目標\n原台新金控及原新光金控之溫室氣體減量目標已分別通過\nSBTi\n審核，依照\n將溫度升幅限定在\n1.5\n°\nC\n內規劃減量路徑，每年平均減量比例目標如下：\n原台新金控及子公司\n年度\n2026 2030 2050\n自身營運（範疇一\n+\n二）較基準年目標減量比例\n29% 46% 100%\n再生能源電力使用目標占比\n30% 46% 100%\n原新光金控及子公司\n年度\n2026 2030 2050\n自身營運（範疇一\n+\n二）較基準年目標減量比例\n21% 42% 100%\n再生能源電力使用目標占比\n7% 24% 100%\n註\n1\n：\nSBT\n範疇一\n+\n二之目標涵蓋範圍皆不包含孫公司。",
+      "verified": true,
+      "review_note": "原台新與原新光目標分列，不相加或平均成合併後金控目標；表格未載基準年，須另找原文。目標範圍不包含孫公司。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-3",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 73,
+      "printed_page": "73",
+      "content": "財務碳排放量\n針對範疇三投融資部位，台新新光金控參酌國際組織「碳核算金融聯盟」（\nPartnership for Carbon Accounting Financials,\n簡稱\nPCAF\n）方法學、「本國銀行\n投融資組合財務碳排放（範疇三）實務手冊」及\nIFRS S2\n行業基礎施行指引為基礎進行投融資組合碳排放量計算。相關統計之碳盤查排放數據，則依整體投資／\n融資排放量、資產別、產業別、以及區域別分別揭露。歷年統計之碳排放量相關數據如下表：",
+      "verified": true,
+      "review_note": "台新新光投融資PCAF、本國銀行實務手冊與IFRS S2方法介紹。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-4",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 73,
+      "printed_page": "73",
+      "content": "註\n1\n： 投融資碳足跡\n=\n投融資部位碳排放\n/\n盤查投融資部位餘額。\n註\n2\n： 盤查覆蓋率（\nPortfolio Coverage\n）\n=\n盤查投融資部位餘額\n/\n資產負債表\nFVPL\n、\nFVOCI\n、\nAC\n、短期放款、中期放款、長期放款與催收款。\n註\n3\n： 盤查部位範疇變化\n-\n台新新光金控於\n2025\n年正式合併，\n2023\n、\n2024\n年數據範疇為原台新集團；\n2025\n年數據以合併後台新新光金控集團範疇進行揭露。\n註\n4\n：\n2023\n年起投資碳盤查範圍納入計算範圍（\nFVPL\n、\nFVOCI\n、\nAC\n）：上市櫃公司股票（普通股、特別股）及公司債劵（不包含綠債）、主權債。不包含私募股權、衍生性金融商品；融資碳盤查範圍包含：法金授信\n一年以下貸款及中小企業貸款、個人房屋抵押貸款、機動車貸款。\n註\n5\n： 個別項目加總與總計有誤差係因進位所致。\n註\n6\n： 本表揭露之\n2025\n年碳排放量採\nISO 14064-1\n：\n2018\n標準，並經由\nBSI\n外部驗證機構進行查驗。",
+      "verified": true,
+      "review_note": "覆蓋率與碳足跡公式、2025合併範圍不同、排除綠債私募衍生工具及查驗表註；年份間不能直接視為相同邊界。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-5",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 62,
+      "printed_page": "62",
+      "content": "3\n.\n3\n.\n2\n.\n3\n投融資組合依賴影響熱點圖\n依據\nENCORE\n資料庫結合自身投融資組合占\n自然相關敏感性產業之結構，繪製自然相關依\n賴性與影響性熱點圖，呈現本集團投資與融\n資組合於各自然面向之關聯程度；其中「\nALL\nASSOCIATIONS\n」代表整體投融資組合之平均關\n聯情形，而「\nKEY ASSOCIATIONS\n」則反映投融\n資金額較集中之關鍵暴險，藉此辨識本集團於不\n同自然議題上潛在之高度依賴或重大影響熱點。\n透過依賴性與影響性熱點圖分析結果可發現，水\n資源相關自然面向於本集團投資與融資組合中均\n呈現高度關聯性。依賴性分析顯示，本集團投融\n資配置集中於對水資源具高度依賴之自然相關敏\n感產業；投融資組合之影響性熱點圖包含水資源\n消耗、溫室氣體排放及固體廢棄物。綜合分析結\n果，水資源議題不僅為本集團營運與財務穩健性\n所高度仰賴之自然要素，亦為本集團投融資活動\n可能對自然環境產生重要影響之關鍵領域。",
+      "verified": true,
+      "review_note": "投資／融資水資源依賴與影響熱點；ALL為平均關聯、KEY為金額集中關鍵暴險，不把雷達圖百分比當實際損害比例。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-6",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 4,
+      "printed_page": "4",
+      "content": "報告書範疇\n本報告書揭露範圍原則上與台新新光金控合併財務報告邊界一致，惟\n2025\n年為台新金控與新光金控正式合併後之首個報導年度，因氣候相關管理機\n制、資料系統及行動策略尚處於整合階段，部分氣候相關數據與指標仍採分\n別揭露方式，或以原台新金控與重要子公司為揭露主體；對於已完成整合之\n項目，則依合併後集團績效進行揭露。相關揭露基準與適用範圍，均於各章\n節內文或附註中說明。未來將持續推進資訊整合，強化數據一致性與可比較\n性以提升報導品質。\n編製基礎與揭露原則\n除另有註明外，本報告書所列財務相關數據均以新台幣仟元為表達單位；部\n分數值因四捨五入關係，合計數可能與總數略有差異。",
+      "verified": true,
+      "review_note": "合併邊界與單位：2025合併後首報導年度，部分指標仍分別揭露或原台新主體，財務數據預設新台幣仟元；不能一概套為合併全集團。",
+      "scope_context": true
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-7",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 4,
+      "printed_page": "4",
+      "content": "前次發行時間 本次發行時間 下次預計發行時間\n2025\n年\n6\n月\n2026\n年\n7\n月\n2027\n年\n7\n月\n發行本數 第\n4\n本\n揭露資訊期間\n西元\n2025\n年\n1\n月\n1\n日至\n12\n月\n31\n日\n主要以 2025 年台新新光金控 TCFD 推動與執行成果為主軸，並加入歷年\n氣候相關行動\n歷年報告書中英文版皆公布於台新新光金控官網「企業永續」專區。",
+      "verified": true,
+      "review_note": "報告期間與本次發行：2025完整年度，本次2026年7月；前次2025年6月與下次預計2027年7月不可當本次資料年。",
+      "scope_context": true
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-8",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 9,
+      "printed_page": "9",
+      "content": "為氣候變遷與永續相關議題最高治理單位，負有指導及監督氣候變遷與永續議題管理之最終責任；董事會轄下設有功能性委員會「風險管理委員會」以及「企業永續\n委員會」，協助董事會管理風險與永續相關議題\n定期性董事會每季召集一次，另得因業務需要隨時召集\n設董事七至九人，組織董事會；董事遴選採候選人提名制度，由股東會就候選人名單中選任。另，本公司董事會下設提名委員會，負責擬具董事會提名之董事候選人\n建議名單\n金控\n董事會",
+      "verified": true,
+      "review_note": "董事會為最高治理單位，每季召集一次，必要時臨時召集。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-9",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 58,
+      "printed_page": "58",
+      "content": "定位\nLocate\n與自然連接口\nL\n1\n商業模式與價值鏈的範疇\nL\n2\n依賴性及影響性審查\nL\n3\n與自然的接點\nL\n4\n與敏感地區的接觸點\n透過地理資訊疊圖，檢視本行營運據\n點、供應商以及投融資客戶等價值鏈位\n置是否落在生態敏感區域內，並進一步\n評估鄰近生態敏感區的投融資對象可能\n對自然環境造成的潛在影響。",
+      "verified": true,
+      "review_note": "台新新光Locate定位敘述；原文使用本行營運據點，不能替換成全金控。四階段圖上方總述因缺字尚未納入本次已核對引文。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-10",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 58,
+      "printed_page": "58",
+      "content": "評價\nEvaluate\n業務依賴與影響\nE\n1\n相關環境資產與生態 系服務識別\nE\n2\n依賴與影響識別\nE\n3\n依賴與影響分析\nE\n4\n影響重大性評估\n將\n16\n大自然敏感性產業作為分析重點，\n評估價值鏈與自然環境之間的關聯程\n度，以掌握投融資組合對自然資本的依\n賴程度與影響分布。",
+      "verified": true,
+      "review_note": "台新新光Evaluate評價聚焦16大自然敏感性產業。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-11",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 58,
+      "printed_page": "58",
+      "content": "評估\nAssess\n重大風險與機會\nA\n1\n風險與機會的鑑別\nA\n2\n既有風險減緩及風險與機會管理\nA\n3\n風險與機會的量測和確定優先順序\nA\n4\n風險與機會的重大性評估\n研擬自然相關風險與機會，並在風險識\n別中，同時考量自有據點、供應商與投\n融資客戶與生態敏感區的接觸情形，以\n及投融資活動對自然資本的依賴度與影\n響程度。透過跨部門合作，識別價值鏈\n上的重大自然風險與機會，做為調整業\n務策略與擬定因應措施的基礎。",
+      "verified": true,
+      "review_note": "台新新光Assess評估重大自然風險機會之研擬與跨部門合作。",
+      "scope_context": false
+    },
+    {
+      "id": "taishin-shin-kong-2025-verified-12",
+      "report_id": "taishin-shin-kong-2025",
+      "page": 58,
+      "printed_page": "58",
+      "content": "準備\nPrepare\n響應與報導\nP\n1\n策略與資源分配\nP\n2\n績效衡量\nP\n3\n報導\nP\n4\n呈現\n依前述自然風險與機會的評估結果，強\n化自然相關治理架構，並制定具體因應\n策略與風險管理措施。此外，本集團亦\n將逐步設定管理目標，以降低自然風險\n對財務與營運的衝擊，並掌握可能的發\n展契機。",
+      "verified": true,
+      "review_note": "台新新光Prepare準備將逐步設定管理目標，不列為已完成量化目標。",
+      "scope_context": false
+    }
+  ]
+}

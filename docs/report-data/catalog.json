@@ -1,0 +1,622 @@
+{
+  "reports": [
+    {
+      "id": "fubon-2025",
+      "company": "富邦金控",
+      "groupName": "富邦金控",
+      "sector": "金控",
+      "year": 2025,
+      "publicationYear": null,
+      "catalogEntity": "富邦金控",
+      "reportType": "氣候報告書",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "title": "2025 氣候相關財務揭露報告書",
+      "url": "https://www.fubon.com/financialholdings/citizenship/downloadlist/downloadlist_report/2025_Fubon_FHC_TCFD_Report_CH.pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 65,
+      "status": "indexed",
+      "verifiedExcerptCount": 53,
+      "updatedAt": "2026-10-07T04:22:23.420429+00:00",
+      "textAudit": {
+        "pages": 65,
+        "flaggedPages": 6,
+        "ocrCheckedPages": 6,
+        "verifiedPageCount": 19,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "cathay-2025",
+      "company": "國泰金控",
+      "groupName": "國泰金控",
+      "sector": "金控",
+      "year": 2025,
+      "publicationYear": null,
+      "catalogEntity": "國泰金控",
+      "reportType": "氣候暨自然報告書",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "title": "2025 氣候暨自然報告書",
+      "url": "https://www.cathayholdings.com/holdings/-/media/a8e88e9b39d548448f2bb8df749e9f43.pdf?sc_lang=zh-tw",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 67,
+      "status": "indexed",
+      "verifiedExcerptCount": 18,
+      "updatedAt": "2026-10-07T04:22:25.921295+00:00",
+      "textAudit": {
+        "pages": 67,
+        "flaggedPages": 2,
+        "ocrCheckedPages": 2,
+        "verifiedPageCount": 9,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "ctbc-2025",
+      "company": "中信金控",
+      "groupName": "中信金控",
+      "sector": "金控",
+      "year": 2025,
+      "publicationYear": null,
+      "catalogEntity": "中信金控",
+      "reportType": "氣候暨自然報告書",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "title": "2025 氣候暨自然報告書",
+      "url": "https://media-ctbc.todayir.com/pdf/esg_report/2025/2025Climate_Nature_Report_cn.pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 96,
+      "status": "indexed",
+      "verifiedExcerptCount": 29,
+      "updatedAt": "2026-10-07T04:22:31.115264+00:00",
+      "textAudit": {
+        "pages": 96,
+        "flaggedPages": 15,
+        "ocrCheckedPages": 15,
+        "verifiedPageCount": 11,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "esun-2025",
+      "company": "玉山金控",
+      "groupName": "玉山金控",
+      "sector": "金控",
+      "year": 2025,
+      "publicationYear": null,
+      "catalogEntity": "玉山金控",
+      "reportType": "氣候暨自然報告書",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "title": "2025 氣候自然報告書",
+      "url": "https://www.esunbank.com/zh-tw/-/media/ESUNFHC/Files/CSR/FHC-CSR-Report/2025-climate-report",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 99,
+      "status": "indexed",
+      "verifiedExcerptCount": 18,
+      "updatedAt": "2026-10-07T04:22:33.982172+00:00",
+      "textAudit": {
+        "pages": 99,
+        "flaggedPages": 10,
+        "ocrCheckedPages": 10,
+        "verifiedPageCount": 9,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "yuanta-2025",
+      "company": "元大金控",
+      "groupName": "元大金控",
+      "sector": "金控",
+      "year": 2025,
+      "publicationYear": null,
+      "catalogEntity": "元大金控",
+      "reportType": "氣候暨自然報告書",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "url": "https://www.yuanta.com/Files/TCFDReport/2025/TW/2025TCFD_Report_TC.pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 101,
+      "status": "indexed",
+      "verifiedExcerptCount": 22,
+      "updatedAt": "2026-10-07T04:22:41.388549+00:00",
+      "textAudit": {
+        "pages": 101,
+        "flaggedPages": 2,
+        "ocrCheckedPages": 2,
+        "verifiedPageCount": 10,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "sinopac-2025",
+      "company": "永豐金控",
+      "groupName": "永豐金控",
+      "catalogEntity": "永豐金控",
+      "sector": "金控",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://www.sinopac.com/esg/files/tw/2025TCFD.pdf",
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 127,
+      "status": "indexed",
+      "verifiedExcerptCount": 36,
+      "updatedAt": "2026-10-07T04:22:55.993230+00:00",
+      "textAudit": {
+        "pages": 127,
+        "flaggedPages": 4,
+        "ocrCheckedPages": 4,
+        "verifiedPageCount": 13,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "kgi-2025",
+      "company": "凱基金控",
+      "groupName": "凱基金控",
+      "catalogEntity": "凱基金控",
+      "sector": "金控",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然相關報告書",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://www.kgi.com/zh-tw/-/media/files/cdf/esg/download/reports-and-certificates/reports/2025-climate-and-nature-related-report.pdf",
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 69,
+      "status": "indexed",
+      "verifiedExcerptCount": 24,
+      "updatedAt": "2026-10-07T04:22:58.760134+00:00",
+      "textAudit": {
+        "pages": 69,
+        "flaggedPages": 6,
+        "ocrCheckedPages": 6,
+        "verifiedPageCount": 9,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "ibf-2025",
+      "company": "國票金控",
+      "groupName": "國票金控",
+      "catalogEntity": "國票金控",
+      "sector": "金控",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://esg.ibf.com.tw/download_report",
+      "sourceKind": "download-page",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 46,
+      "status": "indexed",
+      "verifiedExcerptCount": 10,
+      "updatedAt": "2026-10-07T04:23:00.237113+00:00",
+      "textAudit": {
+        "pages": 46,
+        "flaggedPages": 19,
+        "ocrCheckedPages": 19,
+        "verifiedPageCount": 6,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "id": "taishin-shin-kong-2025",
+      "company": "台新新光金控",
+      "groupName": "台新新光金控",
+      "catalogEntity": "台新新光金控",
+      "sector": "金控",
+      "sections": [
+        "金控"
+      ],
+      "isPrimary": true,
+      "year": 2025,
+      "publicationYear": 2026,
+      "title": "2025 氣候相關財務揭露報告書",
+      "reportType": "氣候報告書",
+      "url": "https://www.tsholdings.com.tw/tsh/responsibility/report/2025-TCFD-report_c.pdf",
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 83,
+      "status": "indexed",
+      "verifiedExcerptCount": 13,
+      "updatedAt": "2026-10-07T04:23:02.098213+00:00",
+      "textAudit": {
+        "pages": 83,
+        "flaggedPages": 11,
+        "ocrCheckedPages": 11,
+        "verifiedPageCount": 7,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "臺灣金控",
+      "groupName": "臺灣金控",
+      "catalogEntity": "臺灣金控",
+      "sector": "金控",
+      "reportType": "永續報告書",
+      "url": "https://www.twfhc.com.tw/Content/fileredirect?Path=MTIzNDAwMDA1Njc4tYyawEg6aySv8YgfzfBvjNGVqShCBL-cV5pZESjxM5OGroVMyDiHykpoBL6DEdzcfB5ob5B4CpZF4Ut6MlGFrQ_P0HfGS09K5vGOlo4Yo_aSpu2Ib_U_6_YukIAZwHo2RUUVQDbedePsZwpISPatoC8vxoZy-V29eD5xMqk",
+      "id": "twfhc-2025",
+      "year": 2025,
+      "publicationYear": 2026,
+      "title": "2025 永續報告書",
+      "sections": [
+        "金控",
+        "公股行庫"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 248,
+      "status": "indexed",
+      "verifiedExcerptCount": 9,
+      "updatedAt": "2026-10-07T04:23:08.592463+00:00",
+      "textAudit": {
+        "pages": 248,
+        "flaggedPages": 129,
+        "ocrCheckedPages": 129,
+        "verifiedPageCount": 7,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "第一金控",
+      "groupName": "第一金控",
+      "catalogEntity": "第一金控",
+      "sector": "金控",
+      "reportType": "氣候報告書",
+      "url": "https://csr.firstholding.com.tw/tc/doc/tcfd/FFD_TCFD_2025.pdf",
+      "id": "first-2025",
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候相關財務揭露報告書",
+      "sections": [
+        "金控",
+        "公股行庫"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 44,
+      "status": "indexed",
+      "verifiedExcerptCount": 23,
+      "updatedAt": "2026-10-07T04:23:09.880845+00:00",
+      "textAudit": {
+        "pages": 44,
+        "flaggedPages": 3,
+        "ocrCheckedPages": 3,
+        "verifiedPageCount": 7,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "合庫金控",
+      "groupName": "合庫金控",
+      "catalogEntity": "合庫金控",
+      "sector": "金控",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://esg.tcfhc.com.tw/uploads/download_item/download_file_zh/18/2025_TCFD_Report.pdf",
+      "id": "tcfhc-2025",
+      "year": 2025,
+      "publicationYear": 2026,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "sections": [
+        "金控",
+        "公股行庫"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 87,
+      "status": "indexed",
+      "verifiedExcerptCount": 15,
+      "updatedAt": "2026-10-07T04:23:11.193021+00:00",
+      "textAudit": {
+        "pages": 87,
+        "flaggedPages": 2,
+        "ocrCheckedPages": 2,
+        "verifiedPageCount": 11,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "華南銀行",
+      "groupName": "華南金控",
+      "catalogEntity": "華南金控",
+      "sector": "銀行",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://www.hncb.com.tw/wps/wcm/connect/40401e93-9b69-4a97-b658-eb108add67db/114%E5%B9%B4TCFD%E6%9A%A8TNFD%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf?MOD=AJPERES&CONVERT_TO=url&CACHEID=ROOTWORKSPACE-40401e93-9b69-4a97-b658-eb108add67db-pXVt7Ov",
+      "id": "hncb-2025",
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 年氣候暨自然相關財務揭露報告書",
+      "sections": [
+        "金控",
+        "公股行庫",
+        "銀行"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 80,
+      "status": "indexed",
+      "verifiedExcerptCount": 14,
+      "updatedAt": "2026-10-07T04:23:12.453959+00:00",
+      "textAudit": {
+        "pages": 80,
+        "flaggedPages": 0,
+        "ocrCheckedPages": 0,
+        "verifiedPageCount": 9,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "兆豐金控",
+      "groupName": "兆豐金控",
+      "catalogEntity": "兆豐金控",
+      "sector": "金控",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://esg.megaholdings.com.tw/apifrontend/file/pdf/20260814142952572_2025%E6%B0%A3%E5%80%99%E6%9A%A8%E8%87%AA%E7%84%B6%E7%92%B0%E5%A2%83%E5%A0%B1%E5%91%8A%E6%9B%B8_FINAL.pdf",
+      "id": "mega-2025",
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然環境報告書",
+      "sections": [
+        "金控",
+        "公股行庫"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 103,
+      "status": "indexed",
+      "verifiedExcerptCount": 17,
+      "updatedAt": "2026-10-07T04:23:15.974566+00:00",
+      "textAudit": {
+        "pages": 103,
+        "flaggedPages": 93,
+        "ocrCheckedPages": 93,
+        "verifiedPageCount": 10,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "土地銀行",
+      "groupName": "",
+      "catalogEntity": "土地銀行",
+      "sector": "銀行",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://www.landbank.com.tw/File/GetFile/81e55df1-1aa1-4f69-810e-8c131540643a",
+      "id": "landbank-2025",
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "sections": [
+        "金控",
+        "公股行庫",
+        "銀行"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "治理與風險管理"
+      ],
+      "pageCount": 90,
+      "status": "indexed",
+      "verifiedExcerptCount": 15,
+      "updatedAt": "2026-10-07T04:23:18.793185+00:00",
+      "textAudit": {
+        "pages": 90,
+        "flaggedPages": 7,
+        "ocrCheckedPages": 7,
+        "verifiedPageCount": 10,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "彰化銀行",
+      "groupName": "",
+      "catalogEntity": "彰化銀行",
+      "sector": "銀行",
+      "reportType": "永續報告書",
+      "url": "https://www.bankchb.com/chb_2a_csr_resource/leap_do/report_chapter_picture/1788748876210/2025%E5%BD%B0%E5%8C%96%E9%8A%80%E8%A1%8C%E6%B0%B8%E7%BA%8C%E5%A0%B1%E5%91%8A%E6%9B%B8.pdf",
+      "id": "chb-2025",
+      "year": 2025,
+      "publicationYear": 2026,
+      "title": "2025 永續報告書",
+      "sections": [
+        "金控",
+        "公股行庫",
+        "銀行"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 222,
+      "status": "indexed",
+      "verifiedExcerptCount": 11,
+      "updatedAt": "2026-10-07T04:23:22.993801+00:00",
+      "textAudit": {
+        "pages": 222,
+        "flaggedPages": 10,
+        "ocrCheckedPages": 10,
+        "verifiedPageCount": 7,
+        "fullPageVisualReviewComplete": false
+      }
+    },
+    {
+      "company": "臺灣中小企業銀行",
+      "groupName": "",
+      "catalogEntity": "臺灣中小企業銀行",
+      "sector": "銀行",
+      "reportType": "氣候暨自然報告書",
+      "url": "https://www.tbb.com.tw/zh-tw/-/media/tbb/files/zh-tw/about/sustainability/environment/climate-change/2025tbb.pdf?sc_lang=zh-tw&hash=935566136995F5B6187A0F38C989E182",
+      "id": "tbb-2025",
+      "year": 2025,
+      "publicationYear": null,
+      "title": "2025 氣候暨自然相關財務揭露報告書",
+      "sections": [
+        "金控",
+        "公股行庫",
+        "銀行"
+      ],
+      "isPrimary": true,
+      "sourceKind": "pdf",
+      "topics": [
+        "TNFD／LEAP",
+        "自然依賴與衝擊",
+        "氣候情境分析",
+        "投融資排放",
+        "轉型計畫",
+        "治理與風險管理"
+      ],
+      "pageCount": 70,
+      "status": "indexed",
+      "verifiedExcerptCount": 26,
+      "updatedAt": "2026-10-07T04:23:26.948794+00:00",
+      "textAudit": {
+        "pages": 70,
+        "flaggedPages": 3,
+        "ocrCheckedPages": 3,
+        "verifiedPageCount": 12,
+        "fullPageVisualReviewComplete": false
+      }
+    }
+  ]
+}
